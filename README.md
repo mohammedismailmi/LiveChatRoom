@@ -23,6 +23,10 @@ This is a simple real-time chat application built using Flask and SocketIO. User
 
 ### Prerequisites
 
+
+https://github.com/user-attachments/assets/55cae214-ceee-4964-9c8a-431bfb887eb9
+
+
 - Python 3.x
 - Flask
 - Flask-SocketIO
