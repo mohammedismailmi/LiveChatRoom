@@ -5,6 +5,12 @@
 
 This is a simple real-time chat application built using Flask and SocketIO. Users can create or join chat rooms, send and receive messages in real time. The application features basic functionalities such as creating and joining rooms, sending messages, and displaying message history.
 
+
+
+https://github.com/user-attachments/assets/a244edc6-4ae2-4fe6-a6de-c9b6db8b875d
+
+
+
 ## Features
 
 - **Create a Room:** Users can generate a unique room code and create a new chat room.
@@ -22,10 +28,6 @@ This is a simple real-time chat application built using Flask and SocketIO. User
 ## Setup
 
 ### Prerequisites
-
-
-https://github.com/user-attachments/assets/55cae214-ceee-4964-9c8a-431bfb887eb9
-
 
 - Python 3.x
 - Flask
